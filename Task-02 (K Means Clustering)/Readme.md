@@ -31,12 +31,3 @@ To run this project, you need to have Python installed on your system. You can i
 ```bash
 pip install -r requirements.txt
 
-## Clone the repository:
-
-<code> git clone https://github.com/yourusername/kmeans-clustering.git </code>
-<code> cd kmeans-clustering </code>
-
-## Run The model
-
-<code> python model.py </code>
-
